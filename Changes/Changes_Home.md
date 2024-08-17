@@ -1,6 +1,6 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/Changes_Home.md
 
-[Page Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost
 [Page Proj Home]:link
 [Page Sys Home]:link
 [Page Learn Home]:link
@@ -9,7 +9,7 @@
 [Page Changes V2]:link
 [Page Changes V3]:link
 
-[Sec ReleaseBoard]:link
+[Sec ReleaseBoard]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/Changes_Home.md#latest-releases-board
 
 # Realms Tutorial Collections: "Realms: Dreams of the Lost" [ Changes ]
 

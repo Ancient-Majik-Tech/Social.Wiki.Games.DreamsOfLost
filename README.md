@@ -1,3 +1,5 @@
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost
+
 [Page Social.Wiki.Home]: [link]
 [Page Libs.Core]:link
 [Page Libs.Engine]:link
@@ -7,8 +9,8 @@
 [Page Learn Home]:link
 [Page Changes Home]:link
 
-[Sec Welcome]:link
-[Sec Details]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost#welcome-to-the-realm-of-ferga-kelvi
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost#technical-details
 
 # Realms Tutorial Collections: "Realms: Dreams of the Lost"
 

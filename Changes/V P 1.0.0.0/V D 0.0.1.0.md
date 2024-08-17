@@ -1,25 +1,24 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Project/Project_Home.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Learning/Learning_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/Changes_Home.md
 
 [Page Change Previous]:link
-[Page Change Next]:link
+[Page Change Next]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
 
-[Sec Details]:link
-[Sec General]:link
-[Sec Proj]:link
-[Sec NewSys]:link
-[Sec ChangedSys]:link
-[Sec Content]:link
-[Sec Fixes]:link
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#details
+[Sec General]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#general-changes
+[Sec Proj]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#project-changes
+[Sec NewSys]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#new-systems
+[Sec ChangedSys]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#changed-systems
+[Sec Content]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#content-changes
+[Sec Fixes]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.DreamsOfLost/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#fixes
 
-[Proj Libs.Core]:link
+[Proj Libs.Core]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki
 [Proj Libs.Engine]:link
 [Proj Content.Games.DreamsOfLost]:link
-[Proj Social.Wiki.Games.DreamsOfLost]:link
 
 [Sys Stats Feat Body]:link
 [Sys Stats Feat Mind]:link
